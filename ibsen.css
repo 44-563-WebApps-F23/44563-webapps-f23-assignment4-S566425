@@ -42,3 +42,10 @@ table,td,th{
 td{
     font-family: sans-serif;
 }
+p.BRACK:hover{
+    background-color:rgb(153, 193, 205);
+    color:  rgb(186, 46, 224);
+    font-family: serif;
+    font-size: large;
+    text-shadow: 10px 10px 15px hotpink;
+}
