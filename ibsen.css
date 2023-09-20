@@ -1,0 +1,14 @@
+.speech{
+    color:black;
+    font-size: medium;
+}
+.direction{
+    color:black;
+    font-size: 14;
+    background-color:lightcyan; 
+}
+.direction:hover{
+    background-color: aqua;
+    color: hotpink;
+
+}
