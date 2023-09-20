@@ -27,10 +27,10 @@
     background-color: khaki;
     font-family: 'Times New Roman', Times, serif;
 }
-table,td,tr,th{
+table,td,th{
     text-align: center;
     box-sizing: content-box;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana;
     color: cadetblue;
     background-color:aliceblue;
     border: 1px solid black;
@@ -38,4 +38,7 @@ table,td,tr,th{
     margin: 2%;
     display:flexbox;
     width: auto;
+}
+td{
+    font-family: sans-serif;
 }
