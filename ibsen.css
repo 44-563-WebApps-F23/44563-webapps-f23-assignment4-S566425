@@ -27,3 +27,15 @@
     background-color: khaki;
     font-family: 'Times New Roman', Times, serif;
 }
+table,td,tr,th{
+    text-align: center;
+    box-sizing: content-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: cadetblue;
+    background-color:aliceblue;
+    border: 1px solid black;
+    padding:0cqmax;
+    margin: 2%;
+    display:flexbox;
+    width: auto;
+}
