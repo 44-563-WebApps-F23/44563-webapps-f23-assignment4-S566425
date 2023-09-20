@@ -49,3 +49,7 @@ p.BRACK:hover{
     font-size: large;
     text-shadow: 10px 10px 15px hotpink;
 }
+.nav-items{
+    display: inline;
+    float: right;
+}
